@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/E5040/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/E5040/Controllers/HomeController.vb))
+* [ProductsReport.cs](./CS/E5040/Reports/ProductsReport.cs) (VB: [ProductsReport.vb](./VB/E5040/Reports/ProductsReport.vb))
+* [_CallbackPanelPartial.cshtml](./CS/E5040/Views/Home/_CallbackPanelPartial.cshtml)
+* [_DocumentViewerPartial.cshtml](./CS/E5040/Views/Home/_DocumentViewerPartial.cshtml)
+* **[Index.cshtml](./CS/E5040/Views/Home/Index.cshtml)**
+<!-- default file list end -->
 # How to add sort capability to the XtraReport displayed in the DocumentViewer extension
 
 
