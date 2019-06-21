@@ -8,6 +8,9 @@
 * **[Index.cshtml](./CS/E5040/Views/Home/Index.cshtml)**
 <!-- default file list end -->
 # How to add sort capability to the XtraReport displayed in the DocumentViewer extension
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5040)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to add the preview sorting functionality to a report in the ASP.NET MVC Web application.</p><p>Some key points of this example:<br />
