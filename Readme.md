@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to add sort capability to the XtraReport displayed in the DocumentViewer extension
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5040)**
+**[[Run Online]](https://codecentral.devexpress.com/e5040/)**
 <!-- run online end -->
 
 
